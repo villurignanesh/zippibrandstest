@@ -1032,7 +1032,7 @@ img {
 }
 
 .Brands-Container{
-  background-color: var(--primary-color);
+  background-color: var(--white-color);
   display: flex;
 }
 
